@@ -153,3 +153,8 @@ class Shop:
 
 c1 = Shop('bharani',9876543212, 'chennai')
 c1.main()
+
+c2 = Shop('bharani',9876543212, 'chennai')
+c2.main()
+
+
